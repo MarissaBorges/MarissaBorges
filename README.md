@@ -2,7 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MarissaBorges&color=733ca9)
 
-## Sobre mim 🔍  
+## Sobre mim 🔍
+
 Oi! Eu sou a Marissa, uma entusiasta da tecnologia e estudante de **Análise e Desenvolvimento de Sistemas**.  
 Atualmente, com portfólio na área de **Análise de Dados**, mas com os olhos brilhando para o futuro em **Machine Learning** e **Inteligência Artificial** 🤖✨  
 Sou curiosa por natureza, apaixonada por aprender e em busca da minha primeira oportunidade de estágio na área de tecnologia!
@@ -10,10 +11,11 @@ Sou curiosa por natureza, apaixonada por aprender e em busca da minha primeira o
 ---
 
 ### 🏷️ Algumas tags que me definem:
-- Iniciante com vontade de crescer 🚀  
-- Júnior em constante evolução 💡  
-- Apaixonada por tecnologia 💜  
-- Buscando minha primeira oportunidade de estágio 👀  
+
+- Iniciante com vontade de crescer 🚀
+- Júnior em constante evolução 💡
+- Apaixonada por tecnologia 💜
+- Buscando minha primeira oportunidade de estágio 👀
 
 ---
 
@@ -35,6 +37,7 @@ Sou curiosa por natureza, apaixonada por aprender e em busca da minha primeira o
 ![Estou aprendendo](https://img.shields.io/badge/Aprendendo-Python-blue?style=for-the-badge&logo=python&logoColor=white)
 
 ---
+
 ## 🌟 Projetos em Destaque
 
 - 📃 [Sistema de cadastro com arquivo](https://github.com/MarissaBorges/python_curso_em_video/blob/d17b485178e13bce05e052350df83d1db97538ff/Mundo%2003/Ex%20115.py) — interface no terminal de cadastro e vizualização de dados
@@ -74,9 +77,10 @@ Sou curiosa por natureza, apaixonada por aprender e em busca da minha primeira o
 
 📌 **Monitorando**  
 💬 Sistema completo para gerenciamento de mentorias, desenvolvido com Django.  
-🎯 Funções como: autenticação, agendamento de reuniões, upload de gravações, visualização de tarefas via token exclusivo para mentorados.  
+🎯 Funções como: autenticação, agendamento de reuniões, upload de gravações, visualização de tarefas via token exclusivo para mentorados.
 
 🛠️ Tecnologias:
+
 - Python 3
 - Django
 - Banco de Dados (SQLite ou PostgreSQL)
@@ -85,34 +89,65 @@ Sou curiosa por natureza, apaixonada por aprender e em busca da minha primeira o
 - Validação de acesso via token
 
 🔐 Destaques:
-- Segurança com token exclusivo por mentorado  
-- Upload controlado de arquivos  
-- Design responsivo  
-- Estrutura modular com views por tipo de usuário  
+
+- Segurança com token exclusivo por mentorado
+- Upload controlado de arquivos
+- Design responsivo
+- Estrutura modular com views por tipo de usuário
+
+---
+
+### 💻 Imersão Dev - Alura 2025
+
+5 projetos desenvolvidos durante a **Imersão Dev da Alura 2025**, utilizando **JavaScript** como linguagem principal para ensinar programação. Cada aula trouxe um desafio prático e interativo para iniciantes em programação.
+
+🔗 Repositório geral: [Imersão Dev - JavaScript](https://github.com/MarissaBorges/ImersaoDev_JavaScript.git)
+
+## 📚 Projetos por Aula
+
+- **Aula 1 – Conversor de Moeda**  
+  Converte valores de dólar para real. Visual inspirado na série Round 6.  
+  [`/aula1-conversor-moeda`](https://github.com/MarissaBorges/ImersaoDev_JavaScript/tree/5e3a052ab1af142fd0c021d7cdc98a044e283c17/Aula001)
+
+- **Aula 2 – Pedra, Papel ou Tesoura**  
+  Jogo clássico com restrição de idade e oponente virtual.  
+  [`/aula2-jokenpo`](https://github.com/MarissaBorges/ImersaoDev_JavaScript/tree/5e3a052ab1af142fd0c021d7cdc98a044e283c17/Aula002)
+
+- **Aula 3 – Jogo da Ponte de Vidro**  
+  Escolha o vidro certo por 3 rodadas para sobreviver, inspirado em Round 6.  
+  [`/aula3-ponte`](https://github.com/MarissaBorges/ImersaoDev_JavaScript/tree/5e3a052ab1af142fd0c021d7cdc98a044e283c17/Aula003)
+
+- **Aula 4 – Heróis vs Vilões**  
+  Batalha entre trios com força aleatória. Vence quem tiver maior poder total.  
+  [`/aula4-cabo-guerra`](https://github.com/MarissaBorges/ImersaoDev_JavaScript/tree/5e3a052ab1af142fd0c021d7cdc98a044e283c17/Aula004)
+
+- **Aula 5 – Quiz da Marvel**  
+  Quiz com 5 perguntas de múltipla escolha sobre heróis da Marvel.  
+  [`/aula5-quiz-marvel`](https://github.com/MarissaBorges/ImersaoDev_JavaScript/tree/5e3a052ab1af142fd0c021d7cdc98a044e283c17/Aula005)
 
 ---
 
 ## 🗺️ Meu roadmap de estudos
 
-- [x] Fundamentos de Python  
-- [x] Lógica de Programação  
-- [x] Power BI e Excel  
+- [x] Fundamentos de Python
+- [x] Lógica de Programação
+- [x] Power BI e Excel
 - [x] Teinamento de Python e Django
 - [x] Imersão Dev Alura - JavaScript
-- [ ] Git e GitHub  
-- [ ] Machine Learning com Python  
-- [ ] IA e Redes Neurais  
+- [ ] Git e GitHub
+- [ ] Machine Learning com Python
+- [ ] IA e Redes Neurais
 
 ---
 
 ### 📚 Cursos Recentes
 
-- ✅ Python Fundamentos – CursoemVideo  
-- ✅ Excel Avançado – Woli 
-- ✅ Power BI Avançado – Woli 
-- 🔄 Machine Learning com Python – *Em andamento*  
-- 🔄 Java Básico – *Em andamento*
-- 🔄 Imersão mobile Alura – *Em andamento*
+- ✅ Python Fundamentos – CursoemVideo
+- ✅ Excel Avançado – Woli
+- ✅ Power BI Avançado – Woli
+- 🔄 Machine Learning com Python – _Em andamento_
+- 🔄 Java Básico – _Em andamento_
+- 🔄 Imersão mobile Alura – _Em andamento_
 
 ---
 
