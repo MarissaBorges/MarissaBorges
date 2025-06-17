@@ -39,16 +39,15 @@ Oi! Eu sou a Marissa, tenho 18 anos e sou estudante de **Análise e Desenvolvime
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![VBA](https://img.shields.io/badge/VBA-003B49?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ---
 
 ## 🌟 Projetos em Destaque
 
-- 📃 [Sistema de cadastro com arquivo](https://github.com/MarissaBorges/python_curso_em_video/blob/d17b485178e13bce05e052350df83d1db97538ff/Mundo%2003/Ex%20115.py) — interface no terminal de cadastro e vizualização de dados
-- 📂 [Sistema de Mentorias (Django)](https://github.com/MarissaBorges/PystackWeek13.git) — projeto web com controle de mentorias
-- ⚽ [FIFA Official Dataset](https://github.com/MarissaBorges/streamlit_fifa_deploy.git) — visualização interativa de dados de jogadores da FIFA.
 - 🗣️ [Oráculo Mimir](https://oraculomimir.streamlit.app/) — IA que interage com o usuário sobre dados de diversas fontes (PDF, CSV, TXT, links).
+- ⚽ [FIFA Official Dataset](https://github.com/MarissaBorges/streamlit_fifa_deploy.git) — visualização interativa de dados de jogadores da FIFA.
+- 📂 [Sistema de Mentorias (Django)](https://github.com/MarissaBorges/PystackWeek13.git) — projeto web com controle de mentorias
+- 📃 [Sistema de cadastro com arquivo](https://github.com/MarissaBorges/python_curso_em_video/blob/d17b485178e13bce05e052350df83d1db97538ff/Mundo%2003/Ex%20115.py) — interface no terminal de cadastro e vizualização de dados
 
 ---
 
@@ -58,8 +57,53 @@ Oi! Eu sou a Marissa, tenho 18 anos e sou estudante de **Análise e Desenvolvime
 
 Durante minha jornada de aprendizado, concluí com êxito **mais de 100 exercícios** do **Curso em Vídeo de Python**, aprofundando meus conhecimentos em lógica de programação, estruturas de controle e manipulação de arquivos. Paralelamente, participei ativamente da **Imersão Dev da Alura 2025**, onde desenvolvi 5 projetos práticos em **JavaScript**, explorando conceitos fundamentais de desenvolvimento web e lógica com uma abordagem interativa e desafiadora.
 
-- **Repositório Curso em Vídeo - Python:** [github.com/MarissaBorges/python_curso_em_video.git](https://github.com/MarissaBorges/python_curso_em_video.git)
-- **Repositório Imersão Dev - JavaScript:** [github.com/MarissaBorges/ImersaoDev_JavaScript.git](https://github.com/MarissaBorges/ImersaoDev_JavaScript.git)
+- **Repositório Curso em Vídeo - Python:** [Curso em Vídeo Python](https://github.com/MarissaBorges/python_curso_em_video.git)
+- **Repositório Imersão Dev - JavaScript:** [Imersão Dev](https://github.com/MarissaBorges/ImersaoDev_JavaScript.git)
+
+---
+
+### 🧠 Python — Inteligência Artificial (Langchain/Streamlit)
+
+🔗 Projeto completo: [Oráculo Mimir](https://github.com/MarissaBorges/oraculo_mimir.git)
+🔗 Link do projeto na web: [Oráculo Mimir](https://oraculomimir.streamlit.app/)
+
+📌 **Oráculo Mimir**
+💬 Uma IA que interage com o usuário, respondendo a dúvidas baseadas em dados de diversas fontes (PDF, CSV, TXT, links de sites e YouTube). Utiliza modelos de linguagem gratuitos via `langchain-groq` e oferece seleção entre `llama3-70b-8192`, `mistral-saba-24b`, `deepseek-r1-distill-llama-70b` e `allam-2-7b`.
+
+🛠️ Tecnologias:
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![LangChain](https://img.shields.io/badge/LangChain-1A1A1A?style=flat&logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+🔐 Destaques:
+
+- Uso de memória em cache para melhor desempenho.
+- O modelo considera o histórico da conversa para respostas mais coerentes.
+- Modularização para carregamento de diferentes tipos de fontes.
+- Inclusão apenas de modelos de IA gratuitos.
+
+---
+
+### 📊 Python — Análise e Visualização de Dados (Streamlit)
+
+🔗 Projeto completo: [FIFA Official Dataset](https://github.com/MarissaBorges/streamlit_fifa_deploy.git)
+🔗 Link do projeto na web: [FIFA Official Dataset](https://streamlit-fifa-deploy.streamlit.app/)
+
+📌 **FIFA Official Dataset**
+💬 Uma visualização interativa dos dados oficiais da FIFA (Kaggle), permitindo explorar dados de jogadores de 2017 a 2023. Inclui uma página inicial descritiva, uma página de detalhes com filtros por clube e jogador (exibindo foto e dados pessoais), e uma página tabular com resumo de nome, idade, foto, preço e clube.
+
+🛠️ Tecnologias:
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+🔐 Destaques:
+
+- Uso de cache para otimizar o carregamento de dados.
+- Controle de acesso às páginas de visualização.
+- Código conciso e eficiente devido ao Streamlit.
 
 ---
 
@@ -88,72 +132,17 @@ Durante minha jornada de aprendizado, concluí com êxito **mais de 100 exercíc
 
 ---
 
-### 📊 Python — Análise e Visualização de Dados (Streamlit)
-
-🔗 Projeto completo: [FIFA Official Dataset](https://github.com/MarissaBorges/streamlit_fifa_deploy.git)
-🔗 Link do projeto na web: [FIFA Official Dataset](https://streamlit-fifa-deploy.streamlit.app/)
-
-📌 **FIFA Official Dataset**
-💬 Uma visualização interativa dos dados oficiais da FIFA (Kaggle), permitindo explorar dados de jogadores de 2017 a 2023. Inclui uma página inicial descritiva, uma página de detalhes com filtros por clube e jogador (exibindo foto e dados pessoais), e uma página tabular com resumo de nome, idade, foto, preço e clube.
-
-🛠️ Tecnologias:
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-🔐 Destaques:
-
-- Uso de cache para otimizar o carregamento de dados.
-- Controle de acesso às páginas de visualização.
-- Código conciso e eficiente devido ao Streamlit.
-
----
-
-### 🧠 Python — Inteligência Artificial (Langchain/Streamlit)
-
-🔗 Projeto completo: [Oráculo Mimir](https://github.com/MarissaBorges/oraculo_mimir.git)
-🔗 Link do projeto na web: [Oráculo Mimir](https://oraculomimir.streamlit.app/)
-
-📌 **Oráculo Mimir**
-💬 Uma IA que interage com o usuário, respondendo a dúvidas baseadas em dados de diversas fontes (PDF, CSV, TXT, links de sites e YouTube). Utiliza modelos de linguagem gratuitos via `langchain-groq` e oferece seleção entre `llama3-70b-8192`, `mistral-saba-24b`, `deepseek-r1-distill-llama-70b` e `allam-2-7b`.
-
-🛠️ Tecnologias:
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![LangChain](https://img.shields.io/badge/LangChain-1A1A1A?style=flat&logo=langchain&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-🔐 Destaques:
-
-- Uso de memória em cache para melhor desempenho.
-- O modelo considera o histórico da conversa para respostas mais coerentes.
-- Modularização para carregamento de diferentes tipos de fontes.
-- Inclusão apenas de modelos de IA gratuitos.
-
----
-
 ## 🗺️ Meu roadmap de estudos
 
 - [x] Fundamentos de Python
 - [x] Lógica de Programação
-- [x] Power BI e Excel
 - [x] Treinamento de Python e Django
 - [x] Imersão Dev Alura - JavaScript
-- [ ] Git e GitHub
-- [ ] Machine Learning com Python
-- [ ] IA e Redes Neurais
-
----
-
-### 📚 Cursos Recentes
-
-- ✅ Python Fundamentos – CursoemVideo
-- ✅ Excel Avançado – Woli
-- ✅ Power BI Avançado – Woli
-- 🔄 Machine Learning com Python – _Em andamento_
-- 🔄 Java Básico – _Em andamento_
-- 🔄 Imersão mobile Alura – _Em andamento_
+- [x] Git e GitHub
+- [x] Engenharia de Prompt
+- [x] IA e Redes Neurais
+- [x] Langchain
+- [ ] Agents com Langchain
 
 ---
 
