@@ -44,7 +44,8 @@ Oi! Eu sou a Marissa, tenho 18 anos e sou estudante de **Análise e Desenvolvime
 
 ## 🌟 Projetos em Destaque
 
-- 🗣️ [Oráculo Mimir](https://oraculomimir.streamlit.app/) — IA que interage com o usuário sobre dados de diversas fontes (PDF, CSV, TXT, links).
+- 🤖 [Oráculo Mimir](https://oraculomimir.streamlit.app/) — IA que interage com o usuário sobre dados de diversas fontes (PDF, CSV, TXT, links).
+- 🎙️ [Assistente de Voz Isaac](https://github.com/MarissaBorges/assistente-voz-isaac) — Assistente de voz com agente duplo para conversas e análise de dados.
 - ⚽ [FIFA Official Dataset](https://github.com/MarissaBorges/streamlit_fifa_deploy.git) — visualização interativa de dados de jogadores da FIFA.
 - 📂 [Sistema de Mentorias (Django)](https://github.com/MarissaBorges/PystackWeek13.git) — projeto web com controle de mentorias
 - 📃 [Sistema de cadastro com arquivo](https://github.com/MarissaBorges/python_curso_em_video/blob/d17b485178e13bce05e052350df83d1db97538ff/Mundo%2003/Ex%20115.py) — interface no terminal de cadastro e vizualização de dados
@@ -67,7 +68,7 @@ Durante minha jornada de aprendizado, concluí com êxito **mais de 100 exercíc
 🔗 Projeto completo: [Oráculo Mimir](https://github.com/MarissaBorges/oraculo_mimir.git)
 🔗 Link do projeto na web: [Oráculo Mimir](https://oraculomimir.streamlit.app/)
 
-📌 **Oráculo Mimir**
+🤖 **Oráculo Mimir**
 💬 Uma IA que interage com o usuário, respondendo a dúvidas baseadas em dados de diversas fontes (PDF, CSV, TXT, links de sites e YouTube). Utiliza modelos de linguagem gratuitos via `langchain-groq` e oferece seleção entre `llama3-70b-8192`, `mistral-saba-24b`, `deepseek-r1-distill-llama-70b` e `allam-2-7b`.
 
 🛠️ Tecnologias:
@@ -82,6 +83,26 @@ Durante minha jornada de aprendizado, concluí com êxito **mais de 100 exercíc
 - O modelo considera o histórico da conversa para respostas mais coerentes.
 - Modularização para carregamento de diferentes tipos de fontes.
 - Inclusão apenas de modelos de IA gratuitos.
+
+---
+
+🔗 Projeto completo: [Assistente de Voz Isaac](https://github.com/MarissaBorges/assistente-voz-isaac)
+🎙️ **Assistente de Voz Isaac**
+💬 Assistente de voz que transcreve áudio (Whisper), interage via LLM (OpenAI) e responde com voz (TTS). Possui um sistema de agente duplo que alterna entre conversação geral e análise de arquivos CSV com Pandas.
+
+🛠️ Tecnologias:
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1A1A1A?style=flat&logo=langchain&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+🔐 Destaques:
+
+- Sistema de agente duplo para roteamento inteligente de tarefas.
+- Interface de voz completa com transcrição (STT) e síntese de voz (TTS).
+- Controle por atalho de teclado global para uma interação fluida.
+- Processamento assíncrono para evitar bloqueios na aplicação.
 
 ---
 
