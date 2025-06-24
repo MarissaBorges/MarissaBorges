@@ -45,7 +45,7 @@ Oi! Eu sou a Marissa, tenho 18 anos e sou estudante de **Análise e Desenvolvime
 ## 🌟 Projetos em Destaque
 
 - 🤖 [Oráculo Mimir](https://oraculomimir.streamlit.app/) — IA que interage com o usuário sobre dados de diversas fontes (PDF, CSV, TXT, links).
-- 🎙️ [Assistente de Voz Isaac](https://github.com/MarissaBorges/assistente-voz-isaac) — Assistente de voz com agente duplo para conversas e análise de dados.
+- 🎙️ [Assistente de Voz Isaac](https://github.com/MarissaBorges/assistente-isaac) — Assistente de voz com agente duplo para conversas e análise de dados.
 - ⚽ [FIFA Official Dataset](https://github.com/MarissaBorges/streamlit_fifa_deploy.git) — visualização interativa de dados de jogadores da FIFA.
 - 📂 [Sistema de Mentorias (Django)](https://github.com/MarissaBorges/PystackWeek13.git) — projeto web com controle de mentorias
 - 📃 [Sistema de cadastro com arquivo](https://github.com/MarissaBorges/python_curso_em_video/blob/d17b485178e13bce05e052350df83d1db97538ff/Mundo%2003/Ex%20115.py) — interface no terminal de cadastro e vizualização de dados
@@ -86,7 +86,7 @@ Durante minha jornada de aprendizado, concluí com êxito **mais de 100 exercíc
 
 ---
 
-🔗 Projeto completo: [Assistente de Voz Isaac](https://github.com/MarissaBorges/assistente-voz-isaac)
+🔗 Projeto completo: [Assistente de Voz Isaac](https://github.com/MarissaBorges/assistente-isaac)
 🎙️ **Assistente de Voz Isaac**
 💬 Assistente de voz que transcreve áudio (Whisper), interage via LLM (OpenAI) e responde com voz (TTS). Possui um sistema de agente duplo que alterna entre conversação geral e análise de arquivos CSV com Pandas.
 
