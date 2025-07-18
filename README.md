@@ -49,10 +49,10 @@
 <!-- INICIO DOS CARDS DE PROJETOS -->
 <!-- 1929x1080 px-->
 
-<table width="100%">
+<table width="100%" style="border-collapse: collapse;">
 <tr valign="top">
-<td width="50%" align="left">
-<div style="background-color: #0d1117; border-radius: 8px; overflow: hidden; margin: 10px;">
+<td width="50%" style="padding: 10px;">
+<div style="background-color: #0d1117; border-radius: 8px; overflow: hidden; height: 100%;">
 <a href="https://github.com/MarissaBorges/githermes" target="_blank">
 <img src="https://i.postimg.cc/fbXFwJPp/Capa.png" width="100%" alt="GitHermes"/>
 </a>
@@ -81,8 +81,8 @@ Saiba mais →
 </div>
 </div>
 </td>
-<td width="50%" align="left">
-<div style="background-color: #0d1117; border-radius: 8px; overflow: hidden; margin: 10px;">
+<td width="50%" style="padding: 10px;">
+<div style="background-color: #0d1117; border-radius: 8px; overflow: hidden; height: 100%;">
 <a href="https://oraculomimir.streamlit.app/" target="_blank">
 <img src="https://i.postimg.cc/FRQkdBHG/Screenshot-2025-07-18-131258.png" width="100%" alt="Oráculo Mimir"/>
 </a>
@@ -111,8 +111,8 @@ Saiba mais →
 </td>
 </tr>
 <tr valign="top">
-<td width="50%" align="left">
-<div style="background-color: #0d1117; border-radius: 8px; overflow: hidden; margin: 10px;">
+<td width="50%" style="padding: 10px;">
+<div style="background-color: #0d1117; border-radius: 8px; overflow: hidden; height: 100%;">
 <a href="https://github.com/MarissaBorges/assistente-isaac" target="_blank">
 <img src="https://i.postimg.cc/J05NzW3b/image.png" width="100%" alt="Assistente Isaac"/>
 </a>
@@ -140,8 +140,8 @@ Saiba mais →
 </div>
 </div>
 </td>
-<td width="50%" align="left">
-<div style="background-color: #0d1117; border-radius: 8px; overflow: hidden; margin: 10px;">
+<td width="50%" style="padding: 10px;">
+<div style="background-color: #0d1117; border-radius: 8px; overflow: hidden; height: 100%;">
 <a href="https://github.com/MarissaBorges/apps_web_apis_deploy" target="_blank">
 <img src="https://i.postimg.cc/wTfQngwN/capa.png" width="100%" alt="Web Apps Usando APIs"/>
 </a>
