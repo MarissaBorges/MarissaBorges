@@ -82,7 +82,7 @@ Saiba mais → Repositório
 <td>
 <div>
 <a href="https://oraculomimir.streamlit.app/" target="_blank">
-<img src="https://i.postimg.cc/FRQkdBHG/Screenshot-2025-07-18-131258.png" width="100%" alt="Oráculo Mimir"/>
+<img src="https://i.postimg.cc/SNb6X4d0/Tela-Inicial.png" width="100%" alt="Oráculo Mimir"/>
 </a>
 <div>
 <h4><b>Oráculo Mimir</b></h4>
