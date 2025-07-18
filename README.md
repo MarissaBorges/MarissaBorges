@@ -23,7 +23,7 @@
   
   <div>
   <samp>
-    <h3 align="center">Sou Marissa, uma estudante de Análise e Desenvolvimento de Sistemas, movida pela curiosidade de entender como as coisas funcionam. <br>
+    <h3 align="center">Sou Marissa, uma estudante de Análise e Desenvolvimento de Sistemas, movida pela curiosidade de entender como as coisas funcionam. <br><br>
     Atualmente, meu foco é o desenvolvimento de aplicações com Inteligência Artificial e Python, utilizando ferramentas como LangChain, Agents e Streamlit. Estou determinada e em busca da minha primeira oportunidade no mercado de tecnologia.
     </h3>
     </samp>
@@ -57,7 +57,7 @@
 <div>
 <h4><b>GitHermes</b></h4>
 <p>
-IA que cria uma ponte entre documentação e código, permitindo que você converse diretamente com qualquer repositório.
+IA que permite a interação sobre qualquer documentação ou rrepositório.
 </p>
 <div>
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" alt="Python">
