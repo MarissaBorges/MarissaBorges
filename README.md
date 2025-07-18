@@ -2,7 +2,7 @@
 
 <div align="center">
   <samp>
-    <h1 style="font-size: 100px;">
+    <h1>
     <b>
       MARISSA BORGES
       </b>
@@ -25,10 +25,14 @@
   
   <div style="flex: 1; margin-right: 20px;">
   <samp>
-    <p align="center" style="font-size: 16px;">Sou Marissa, uma estudante de Análise e Desenvolvimento de Sistemas, movida pela curiosidade de entender como as coisas funcionam. </p>
-    <p align="center" style="font-size: 16px;">Atualmente, meu foco é o desenvolvimento de aplicações com Inteligência Artificial e Python, utilizando ferramentas como LangChain, Agents e Streamlit. Estou determinada e em busca da minha primeira oportunidade no mercado de tecnologia.
+    <p>Sou Marissa, uma estudante de Análise e Desenvolvimento de Sistemas, movida pela curiosidade de entender como as coisas funcionam. </p>
+    <p>Atualmente, meu foco é o desenvolvimento de aplicações com Inteligência Artificial e Python, utilizando ferramentas como LangChain, Agents e Streamlit. Estou determinada e em busca da minha primeira oportunidade no mercado de tecnologia.
     </p>
     </samp>
+  </div>
+
+  <div style="flex: 1;">
+    <img src="https://i.postimg.cc/sxQjYMwQ/600-DSCF7924.jpg" width="100%" alt="Foto de Perfil" style="border-radius: 50%;">
   </div>
 
 </div>
