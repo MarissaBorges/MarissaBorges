@@ -22,7 +22,6 @@
 </p>
 
 <div style="display: flex; justify-content: space-between;">
-  
   <div style="flex: 1; margin-right: 20px;">
   <samp>
     <p align="center">Sou Marissa, uma estudante de Análise e Desenvolvimento de Sistemas, movida pela curiosidade de entender como as coisas funcionam. </p>
@@ -30,7 +29,6 @@
     </p>
     </samp>
   </div>
-
 </div>
 
 <p align="center">
@@ -47,81 +45,88 @@
 ## 💻 Projetos em Destaque
 
 <!-- INICIO DOS CARDS DE PROJETOS -->
-<!-- 1929x1080 px-->
-
-  <table>
-    <tr>
-      <td width="50%">
-        <div style="background-color: #0d1117; border-radius: 12px; padding: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-          <a href="https://github.com/MarissaBorges/githermes" target="_blank">
-            <img src="https://i.postimg.cc/fbXFwJPp/Capa.png" alt="GitHermes" width="100%">
-          </a>
-          <b>GitHermes</b><br>
-          IA que cria uma ponte entre documentação e código, permitindo conversar com qualquer repositório.<br>
-          <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white">
-          <img src="https://img.shields.io/badge/LangChain-1A1A1A?style=flat&logo=langchain&logoColor=white">
-          <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright">
-          <img src="https://img.shields.io/badge/Beautiful%20Soup-E67E22?style=flat&logoColor=white">
-          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
-          <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat"><br>
-          Última atualização:<br>
-          <img src="https://img.shields.io/github/last-commit/MarissaBorges/githermes?style=flat&label=&color=0d1117">
-          <a href="https://github.com/MarissaBorges/githermes" target="_blank">Saiba mais →</a>
-        </div>
-      </td>
-      <td width="50%">
-        <div style="background-color: #0d1117; border-radius: 12px; padding: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-          <a href="https://oraculomimir.streamlit.app/" target="_blank">
-            <img src="https://i.postimg.cc/SNb6X4d0/Tela-Inicial.png" alt="Oráculo Mimir" width="100%">
-          </a>
-          <b>Oráculo Mimir</b><br>
-          IA conversacional que responde perguntas sobre documentos, links e vídeos, utilizando RAG.<br>
-          <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white">
-          <img src="https://img.shields.io/badge/LangChain-1A1A1A?style=flat&logo=langchain&logoColor=white">
-          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
-          <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat"><br>
-          Última atualização:<br>
-          <img src="https://img.shields.io/github/last-commit/MarissaBorges/oraculo?style=flat&label=&color=0d1117">
-          <a href="https://github.com/MarissaBorges/oraculo" target="_blank">Saiba mais →</a>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <div style="background-color: #0d1117; border-radius: 12px; padding: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-          <a href="https://github.com/MarissaBorges/assistente-isaac" target="_blank">
-            <img src="https://i.postimg.cc/J05NzW3b/image.png" alt="Assistente Isaac" width="100%">
-          </a>
-          <b>Assistente Isaac</b><br>
-          Assistente de voz com agente duplo para conversas e análise de dados em CSV.<br>
-          <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white">
-          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white">
-          <img src="https://img.shields.io/badge/LangChain-1A1A1A?style=flat&logo=langchain&logoColor=white">
-          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
-          <img src="https://img.shields.io/badge/Agent-4682B4?style=flat"><br>
-          Última atualização:<br>
-          <img src="https://img.shields.io/github/last-commit/MarissaBorges/assistente-isaac?style=flat&label=&color=0d1117">
-          <a href="https://github.com/MarissaBorges/assistente-isaac" target="_blank">Saiba mais →</a>
-        </div>
-      </td>
-      <td width="50%">
-        <div style="background-color: #0d1117; border-radius: 12px; padding: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-          <a href="https://github.com/MarissaBorges/apps_web_apis_deploy" target="_blank">
-            <img src="https://i.postimg.cc/wTfQngwN/capa.png" alt="Web Apps Usando APIs" width="100%">
-          </a>
-          <b>Web Apps Usando APIs</b><br>
-          Coleção de 3 aplicações web usando APIs e diferentes métodos de autenticação.<br>
-          <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white">
-          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
-          <img src="https://img.shields.io/badge/OpenWeather%20API-EB6E4B?style=flat&logo=openweathermap&logoColor=white">
-          <img src="https://img.shields.io/badge/Spotify%20API-1ED760?style=flat&logo=spotify&logoColor=white"><br>
-          Última atualização:<br>
-          <img src="https://img.shields.io/github/last-commit/MarissaBorges/apps_web_apis_deploy?style=flat&label=&color=0d1117">
-          <a href="https://github.com/MarissaBorges/apps_web_apis_deploy" target="_blank">Saiba mais →</a>
-        </div>
-      </td>
-    </tr>
-  </table>
+<table width="100%">
+  <tr>
+    <!-- Projeto 1 -->
+    <td width="50%" valign="top">
+      <a href="https://github.com/MarissaBorges/githermes" target="_blank">
+        <img width="100%" src="https://i.postimg.cc/fbXFwJPp/Capa.png">
+      </a>
+      <h3>GitHermes</h3>
+      <p>IA que cria uma ponte entre documentação e código, permitindo conversar com qualquer repositório.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/LangChain-1A1A1A?style=flat&logo=langchain&logoColor=white">
+        <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright">
+        <img src="https://img.shields.io/badge/Beautiful%20Soup-E67E22?style=flat&logoColor=white">
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
+        <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat">
+      </p>
+      <div>
+        <span align="left">Última atualização: <img src="https://img.shields.io/github/last-commit/MarissaBorges/githermes?style=flat&label=&color=0d1117"></span>
+        <span align="right" style="float: right;"><a href="https://github.com/MarissaBorges/githermes">Saiba mais →</a></span>
+      </div>
+    </td>
+    <!-- Projeto 2 -->
+    <td width="50%" valign="top">
+      <a href="https://oraculomimir.streamlit.app/" target="_blank">
+        <img width="100%" src="https://i.postimg.cc/SNb6X4d0/Tela-Inicial.png">
+      </a>
+      <h3>Oráculo Mimir</h3>
+      <p>IA conversacional que responde perguntas sobre documentos, links e vídeos, utilizando RAG.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/LangChain-1A1A1A?style=flat&logo=langchain&logoColor=white">
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
+        <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat">
+      </p>
+      <div>
+        <span align="left">Última atualização: <img src="https://img.shields.io/github/last-commit/MarissaBorges/oraculo?style=flat&label=&color=0d1117"></span>
+        <span align="right" style="float: right;"><a href="https://github.com/MarissaBorges/oraculo">Saiba mais →</a></span>
+      </div>
+    </td>
+  </tr>
+  
+  <tr>
+    <!-- Projeto 3 -->
+    <td width="50%" valign="top">
+      <a href="https://github.com/MarissaBorges/assistente-isaac" target="_blank">
+        <img width="100%" src="https://i.postimg.cc/J05NzW3b/image.png">
+      </a>
+      <h3>Assistente Isaac</h3>
+      <p>Assistente de voz com agente duplo para conversas e análise de dados em CSV.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white">
+        <img src="https://img.shields.io/badge/LangChain-1A1A1A?style=flat&logo=langchain&logoColor=white">
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
+        <img src="https://img.shields.io/badge/Agent-4682B4?style=flat">
+      </p>
+      <div>
+        <span align="left">Última atualização: <img src="https://img.shields.io/github/last-commit/MarissaBorges/assistente-isaac?style=flat&label=&color=0d1117"></span>
+        <span align="right" style="float: right;"><a href="https://github.com/MarissaBorges/assistente-isaac">Saiba mais →</a></span>
+      </div>
+    </td>
+    <!-- Projeto 4 -->
+    <td width="50%" valign="top">
+      <a href="https://github.com/MarissaBorges/apps_web_apis_deploy" target="_blank">
+        <img width="100%" src="https://i.postimg.cc/wTfQngwN/capa.png">
+      </a>
+      <h3>Web Apps Usando APIs</h3>
+      <p>Coleção de 3 aplicações web usando APIs e diferentes métodos de autenticação.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
+        <img src="https://img.shields.io/badge/OpenWeather%20API-EB6E4B?style=flat&logo=openweathermap&logoColor=white">
+        <img src="https://img.shields.io/badge/Spotify%20API-1ED760?style=flat&logo=spotify&logoColor=white">
+      </p>
+      <div>
+        <span align="left">Última atualização: <img src="https://img.shields.io/github/last-commit/MarissaBorges/apps_web_apis_deploy?style=flat&label=&color=0d1117"></span>
+        <span align="right" style="float: right;"><a href="https://github.com/MarissaBorges/apps_web_apis_deploy">Saiba mais →</a></span>
+      </div>
+    </td>
+  </tr>
+</table>
 <!-- FIM DOS CARDS DE PROJETOS -->
 
 ---
@@ -158,6 +163,6 @@
     alt="Top Language"
     src="https://streak-stats.demolab.com/?user=MarissaBorges&theme=dark&locale=pt_BR&background=000000"
   />
-  </div>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=100&section=footer"/>
