@@ -1,14 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=fffff"/>
 
-<div align="center">
   <samp>
-    <h1>
+    <h1 align="center">
     <b>
-      MARISSA BORGES
+      DESENVOLVEDOR DE APLICAÇÕES COM IA
       </b>
     </h1>
   </samp>
-</div>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54">
@@ -25,9 +23,9 @@
   
   <div>
   <samp>
-    <p align="center">Sou Marissa, uma estudante de Análise e Desenvolvimento de Sistemas, movida pela curiosidade de entender como as coisas funcionam. </p>
-    <p align="center">Atualmente, meu foco é o desenvolvimento de aplicações com Inteligência Artificial e Python, utilizando ferramentas como LangChain, Agents e Streamlit. Estou determinada e em busca da minha primeira oportunidade no mercado de tecnologia.
-    </p>
+    <h3 align="center">Sou Marissa, uma estudante de Análise e Desenvolvimento de Sistemas, movida pela curiosidade de entender como as coisas funcionam. <br>
+    Atualmente, meu foco é o desenvolvimento de aplicações com Inteligência Artificial e Python, utilizando ferramentas como LangChain, Agents e Streamlit. Estou determinada e em busca da minha primeira oportunidade no mercado de tecnologia.
+    </h3>
     </samp>
   </div>
 
