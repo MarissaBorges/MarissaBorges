@@ -57,7 +57,7 @@
 <div>
 <h4><b>GitHermes</b></h4>
 <p>
-IA que permite a interação sobre qualquer documentação ou rrepositório.
+IA que permite a interação sobre qualquer documentação ou repositório.
 </p>
 <div>
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" alt="Python">
