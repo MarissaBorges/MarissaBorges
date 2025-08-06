@@ -23,7 +23,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; margin-right: 20px;">
-  <img align="right" alt="my img" width="180" src="https://i.postimg.cc/t424183m/perfil-redondo.png">
+  <img align="right" alt="my img" width="180" src="https://i.postimg.cc/660gNwtS/perfil-redondo.png">
   <samp>
     <p align="left">Sou Marissa, uma estudante de Análise e Desenvolvimento de Sistemas, movida pela curiosidade de entender como as coisas funcionam. </p>
     <p align="left">Atualmente, meu foco é o desenvolvimento de aplicações com Inteligência Artificial e Python, utilizando ferramentas como LangChain, Agents e Streamlit. Estou determinada e em busca da minha primeira oportunidade no mercado de tecnologia.
