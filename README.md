@@ -61,21 +61,104 @@
        src="https://img.shields.io/github/followers/marissaborges?style=flat&label=Followers&color=000000&logo=github" /> </a>
 </p>
 
-## 💻 Projetos em Destaque
+<h2>
+<samp>
+💻 Projetos em Destaque
+<samp>
+</h2>
 
 <!-- INICIO DOS CARDS DE PROJETOS -->
 <!-- 1929x1080 px-->
-
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <div align="left">[![GitHermes](https://i.postimg.cc/fbXFwJPp/Capa.png)](https://github.com/MarissaBorges/githermes)<p><b>GitHermes</b></p><p>IA que cria uma ponte entre documentação e código, permitindo conversar com qualquer repositório.</p><p> <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/LangChain-1A1A1A?style=flat&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright"> <img src="https://img.shields.io/badge/Beautiful%20Soup-E67E22?style=flat&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat"></p><div><p align = "left">Última atualização: <img src="https://img.shields.io/github/last-commit/MarissaBorges/githermes?style=flat&label=&color=0d1117"></p><p align="right"> <a href="https://github.com/usuario/repositorio">Saiba mais →</a> </p></div></div> | <div align="left">[![Oráculo Mimir](https://i.postimg.cc/SNb6X4d0/Tela-Inicial.png)](https://oraculomimir.streamlit.app/)<p><b>Oráculo Mimir</b></p><p>IA conversacional que responde perguntas sobre documentos, links e vídeos, utilizando RAG.</p><p><img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/LangChain-1A1A1A?style=flat&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat"><div></p><p align="left">Última atualização: <img src="https://img.shields.io/github/last-commit/MarissaBorges/oraculo?style=flat&label=&color=0d1117"></p><p align="right"><a href="https://github.com/MarissaBorges/oraculo">Saiba mais →</a><p></div></div>                                                            |
-| [![Assistente Isaac](https://i.postimg.cc/J05NzW3b/image.png)](https://github.com/MarissaBorges/assistente-isaac)<p><b>Assistente Isaac</b></p><p>Assistente de voz com agente duplo para conversas e análise de dados em CSV.</p><p><img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/LangChain-1A1A1A?style=flat&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/Agent-4682B4?style=flat"></p><p align="left">Última atualização: <img src="https://img.shields.io/github/last-commit/MarissaBorges/assistente-isaac?style=flat&label=&color=0d1117"></p><p align="right"><a href="https://github.com/MarissaBorges/assistente-isaac">Saiba mais →</a></p>                                                                                                         | [![Web Apps Usando APIs](https://i.postimg.cc/wTfQngwN/capa.png)](https://github.com/MarissaBorges/apps_web_apis_deploy)</p><p><b>Web Apps Usando APIs</b></p><p>Coleção de 3 aplicações web usando APIs e diferentes métodos de autenticação.</p><p><img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/OpenWeather%20API-EB6E4B?style=flat&logo=openweathermap&logoColor=white"> <img src="https://img.shields.io/badge/Spotify%20API-1ED760?style=flat&logo=spotify&logoColor=white"></p><p align="left">Última atualização: <img src="https://img.shields.io/github/last-commit/MarissaBorges/apps_web_apis_deploy?style=flat&label=&color=0d1117"></p><p align="right"><a href="https://github.com/MarissaBorges/apps_web_apis_deploy">Saiba mais →</a></p> |
-
+<table>
+  <tr>
+    <td>
+      <div align="left">
+        <a href="https://github.com/MarissaBorges/githermes">
+          <img src="https://i.postimg.cc/fbXFwJPp/Capa.png" alt="GitHermes" width="100%">
+        </a>
+        <samp><p><b>GitHermes</b></p></samp>
+        <samp><p>IA que cria uma ponte entre documentação e código, permitindo conversar com qualquer repositório.</p></samp>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white">
+          <img src="https://img.shields.io/badge/LangChain-1A1A1A?style=flat&logo=langchain&logoColor=white">
+          <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright">
+          <img src="https://img.shields.io/badge/Beautiful%20Soup-E67E22?style=flat&logoColor=white">
+          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
+          <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat">
+        </p>
+        <div>
+          <p align="left"><samp>Última atualização: </samp><img src="https://img.shields.io/github/last-commit/MarissaBorges/githermes?style=flat&label=&color=0d1117"></p>
+          <p align="right"><a href="https://github.com/MarissaBorges/githermes"><samp>Saiba mais →</samp></a></p>
+        </div>
+      </div>
+    </td>
+    <td>
+      <div align="left">
+        <a href="https://oraculomimir.streamlit.app/">
+          <img src="https://i.postimg.cc/SNb6X4d0/Tela-Inicial.png" alt="Oráculo Mimir" width="100%">
+        </a>
+        <p><samp><b>Oráculo Mimir</b></samp></p>
+        <p><samp>IA conversacional que responde perguntas sobre documentos, links e vídeos, utilizando RAG.</samp></p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white">
+          <img src="https://img.shields.io/badge/LangChain-1A1A1A?style=flat&logo=langchain&logoColor=white">
+          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
+          <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat">
+        </p>
+        <div>
+          <p align="left"><samp>Última atualização: </samp><img src="https://img.shields.io/github/last-commit/MarissaBorges/oraculo?style=flat&label=&color=0d1117"></p>
+          <p align="right"><a href="https://github.com/MarissaBorges/oraculo"><samp>Saiba mais →</samp></a></p>
+        </div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="left">
+        <a href="https://github.com/MarissaBorges/assistente-isaac">
+          <img src="https://i.postimg.cc/J05NzW3b/image.png" alt="Assistente Isaac" width="100%">
+        </a>
+        <p><b><samp>Assistente Isaac</samp></b></p>
+        <p><samp>Assistente de voz com agente duplo para conversas e análise de dados em CSV.</samp></p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white">
+          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white">
+          <img src="https://img.shields.io/badge/LangChain-1A1A1A?style=flat&logo=langchain&logoColor=white">
+          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
+          <img src="https://img.shields.io/badge/Agent-4682B4?style=flat">
+        </p>
+        <p align="left"><samp>Última atualização: </samp><img src="https://img.shields.io/github/last-commit/MarissaBorges/assistente-isaac?style=flat&label=&color=0d1117"></p>
+        <p align="right"><a href="https://github.com/MarissaBorges/assistente-isaac"><samp>Saiba mais →</samp></a></p>
+      </div>
+    </td>
+    <td>
+      <div align="left">
+        <a href="https://github.com/MarissaBorges/apps_web_apis_deploy">
+          <img src="https://i.postimg.cc/wTfQngwN/capa.png" alt="Web Apps Usando APIs" width="100%">
+        </a>
+        <p><b><samp>Web Apps Usando APIs</samp></b></p>
+        <p><samp>Coleção de 3 aplicações web usando APIs e diferentes métodos de autenticação.</samp></p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white">
+          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
+          <img src="https://img.shields.io/badge/OpenWeather%20API-EB6E4B?style=flat&logo=openweathermap&logoColor=white">
+          <img src="https://img.shields.io/badge/Spotify%20API-1ED760?style=flat&logo=spotify&logoColor=white">
+        </p>
+        <p align="left"><samp>Última atualização: </samp><img src="https://img.shields.io/github/last-commit/MarissaBorges/apps_web_apis_deploy?style=flat&label=&color=0d1117"></p>
+        <p align="right"><a href="https://github.com/MarissaBorges/apps_web_apis_deploy"><samp>Saiba mais →</samp></a></p>
+      </div>
+    </td>
+  </tr>
+</table>
 <!-- FIM DOS CARDS DE PROJETOS -->
 
 ---
 
-## 📊 Estatísticas
+<h2>
+<samp>
+📊 Estatísticas
+</samp>
+<h2>
 
 <br>
 
