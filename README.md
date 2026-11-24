@@ -12,21 +12,22 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/Engenharia%20de%20Prompt-2E8B57?style=flat">
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/LangChain-1A1A1A?style=flat&logo=langchain&logoColor=white">
 <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=white">
-<img src="https://img.shields.io/badge/Agent-4682B4?style=flat&logo=google-gemini&logoColor=white">
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Agents-4682B4?style=flat&logo=ollama&logoColor=white">
 </p>
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; margin-right: 20px;">
   <img align="right" alt="my img" width="180" src="https://i.postimg.cc/660gNwtS/perfil-redondo.png">
   <samp>
-    <p align="left">Sou Marissa, uma estudante de Análise e Desenvolvimento de Sistemas, movida pela curiosidade de entender como as coisas funcionam. </p>
-    <p align="left">Atualmente, meu foco é o desenvolvimento de aplicações com Inteligência Artificial e Python, utilizando ferramentas como LangChain, Agents e Streamlit. Estou determinada e em busca de conseguir cada vez mais conhecimento e experiência na área de Dev.
+    <p align="left">Sou Marissa, estudante de Análise e Desenvolvimento de Sistemas, movida pela curiosidade de entender como as coisas funcionam e construir sistemas que resolvem problemas reais.</p>
+    <p align="left">Atualmente, meu foco é o desenvolvimento full-stack e de aplicações com Inteligência Artificial em Python, utilizando Django, FastAPI, LangChain, RAG, agentes autônomos e automação web com Playwright. Estou em constante evolução buscando criar softwares cada vez mais sólidos, rápidos e bem projetados.
     </p>
   </samp>
   </div>
@@ -64,7 +65,7 @@
 <h2>
 <samp>
 💻 Projetos em Destaque
-<samp>
+</samp>
 </h2>
 
 <!-- INICIO DOS CARDS DE PROJETOS -->
@@ -73,41 +74,43 @@
   <tr>
     <td>
       <div align="left">
-        <a href="https://github.com/MarissaBorges/githermes">
-          <img src="https://i.postimg.cc/fbXFwJPp/Capa.png" alt="GitHermes" width="100%">
+        <a href="https://github.com/MarissaBorges/oros">
+          <img src="assets/oros-cover.jpg" alt="OROS" width="100%">
         </a>
-        <samp><p><b>GitHermes</b></p></samp>
-        <samp><p>IA que cria uma ponte entre documentação e código, permitindo conversar com qualquer repositório.</p></samp>
+        <samp><p><b>OROS</b></p></samp>
+        <samp><p>Assistente técnico local-first com interface orbital, voz cross-browser, RAG e orquestração de agentes.</p></samp>
         <p>
           <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white">
-          <img src="https://img.shields.io/badge/LangChain-1A1A1A?style=flat&logo=langchain&logoColor=white">
-          <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright">
-          <img src="https://img.shields.io/badge/Beautiful%20Soup-E67E22?style=flat&logoColor=white">
-          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
+          <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
+          <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white">
+          <img src="https://img.shields.io/badge/Faster--Whisper-412991?style=flat">
           <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat">
+          <img src="https://img.shields.io/badge/Agents-4682B4?style=flat">
         </p>
         <div>
-          <p align="left"><samp>Última atualização: </samp><img src="https://img.shields.io/github/last-commit/MarissaBorges/githermes?style=flat&label=&color=0d1117"></p>
-          <p align="right"><a href="https://github.com/MarissaBorges/githermes"><samp>Saiba mais →</samp></a></p>
+          <p align="left"><samp>Última atualização: </samp><img src="https://img.shields.io/github/last-commit/MarissaBorges/oros?style=flat&label=&color=0d1117"></p>
+          <p align="right"><a href="https://github.com/MarissaBorges/oros"><samp>Saiba mais →</samp></a></p>
         </div>
       </div>
     </td>
     <td>
       <div align="left">
-        <a href="https://oraculomimir.streamlit.app/">
-          <img src="https://i.postimg.cc/SNb6X4d0/Tela-Inicial.png" alt="Oráculo Mimir" width="100%">
+        <a href="https://github.com/MarissaBorges/tallenn">
+          <img src="assets/tallenn-cover.jpg" alt="Tallenn" width="100%">
         </a>
-        <p><samp><b>Oráculo Mimir</b></samp></p>
-        <p><samp>IA conversacional que responde perguntas sobre documentos, links e vídeos, utilizando RAG.</samp></p>
+        <p><samp><b>Tallenn</b></samp></p>
+        <p><samp>Plataforma de carreira e coleta automática de vagas com fila assíncrona, automação web e interface animada.</samp></p>
         <p>
           <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white">
-          <img src="https://img.shields.io/badge/LangChain-1A1A1A?style=flat&logo=langchain&logoColor=white">
-          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
-          <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat">
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
+          <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
+          <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white">
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
+          <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black">
         </p>
         <div>
-          <p align="left"><samp>Última atualização: </samp><img src="https://img.shields.io/github/last-commit/MarissaBorges/oraculo?style=flat&label=&color=0d1117"></p>
-          <p align="right"><a href="https://github.com/MarissaBorges/oraculo"><samp>Saiba mais →</samp></a></p>
+          <p align="left"><samp>Última atualização: </samp><img src="https://img.shields.io/github/last-commit/MarissaBorges/tallenn?style=flat&label=&color=0d1117"></p>
+          <p align="right"><a href="https://github.com/MarissaBorges/tallenn"><samp>Saiba mais →</samp></a></p>
         </div>
       </div>
     </td>
@@ -115,37 +118,39 @@
   <tr>
     <td>
       <div align="left">
-        <a href="https://github.com/MarissaBorges/assistente-isaac">
-          <img src="https://i.postimg.cc/J05NzW3b/image.png" alt="Assistente Isaac" width="100%">
+        <a href="https://github.com/MarissaBorges/Help-na-Escolha">
+          <img src="assets/help-na-escolha-cover.jpg" alt="Help na Escolha" width="100%">
         </a>
-        <p><b><samp>Assistente Isaac</samp></b></p>
-        <p><samp>Assistente de voz com agente duplo para conversas e análise de dados em CSV.</samp></p>
+        <p><b><samp>Help na Escolha</samp></b></p>
+        <p><samp>Plataforma SaaS de Business Intelligence e assistente IA (Tool-Calling + RAG) para análise de serventias extrajudiciais.</samp></p>
         <p>
           <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white">
-          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white">
+          <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
           <img src="https://img.shields.io/badge/LangChain-1A1A1A?style=flat&logo=langchain&logoColor=white">
-          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
-          <img src="https://img.shields.io/badge/Agent-4682B4?style=flat">
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
         </p>
-        <p align="left"><samp>Última atualização: </samp><img src="https://img.shields.io/github/last-commit/MarissaBorges/assistente-isaac?style=flat&label=&color=0d1117"></p>
-        <p align="right"><a href="https://github.com/MarissaBorges/assistente-isaac"><samp>Saiba mais →</samp></a></p>
+        <p align="left"><samp>Última atualização: </samp><img src="https://img.shields.io/github/last-commit/MarissaBorges/Help-na-Escolha?style=flat&label=&color=0d1117"></p>
+        <p align="right"><a href="https://github.com/MarissaBorges/Help-na-Escolha"><samp>Saiba mais →</samp></a></p>
       </div>
     </td>
     <td>
       <div align="left">
-        <a href="https://github.com/MarissaBorges/apps_web_apis_deploy">
-          <img src="https://i.postimg.cc/wTfQngwN/capa.png" alt="Web Apps Usando APIs" width="100%">
+        <a href="https://github.com/MarissaBorges/signa">
+          <img src="assets/signa-cover.jpg" alt="Signa" width="100%">
         </a>
-        <p><b><samp>Web Apps Usando APIs</samp></b></p>
-        <p><samp>Coleção de 3 aplicações web usando APIs e diferentes métodos de autenticação.</samp></p>
+        <p><b><samp>Signa</samp></b></p>
+        <p><samp>Estúdio de assinaturas com evidências auditáveis, criptografia libsodium e integração ao ERP Hospitalar Tasy.</samp></p>
         <p>
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white">
-          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
-          <img src="https://img.shields.io/badge/OpenWeather%20API-EB6E4B?style=flat&logo=openweathermap&logoColor=white">
-          <img src="https://img.shields.io/badge/Spotify%20API-1ED760?style=flat&logo=spotify&logoColor=white">
+          <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+          <img src="https://img.shields.io/badge/ERP%20Hospitalar%20Tasy-2E8B57?style=flat">
         </p>
-        <p align="left"><samp>Última atualização: </samp><img src="https://img.shields.io/github/last-commit/MarissaBorges/apps_web_apis_deploy?style=flat&label=&color=0d1117"></p>
-        <p align="right"><a href="https://github.com/MarissaBorges/apps_web_apis_deploy"><samp>Saiba mais →</samp></a></p>
+        <p align="left"><samp>Última atualização: </samp><img src="https://img.shields.io/github/last-commit/MarissaBorges/signa?style=flat&label=&color=0d1117"></p>
+        <p align="right"><a href="https://github.com/MarissaBorges/signa"><samp>Saiba mais →</samp></a></p>
       </div>
     </td>
   </tr>
@@ -158,7 +163,7 @@
 <samp>
 📊 Estatísticas
 </samp>
-<h2>
+</h2>
 
 <br>
 
