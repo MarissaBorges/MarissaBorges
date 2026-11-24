@@ -118,7 +118,7 @@
   <tr>
     <td>
       <div align="left">
-        <a href="https://github.com/MarissaBorges/Help-na-Escolha">
+        <a href="https://plataformahne.com.br" target="_blank">
           <img src="assets/help-na-escolha-cover.jpg" alt="Help na Escolha" width="100%">
         </a>
         <p><b><samp>Help na Escolha</samp></b></p>
@@ -131,8 +131,8 @@
           <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
         </p>
-        <p align="left"><samp>Última atualização: </samp><img src="https://img.shields.io/github/last-commit/MarissaBorges/Help-na-Escolha?style=flat&label=&color=0d1117"></p>
-        <p align="right"><a href="https://github.com/MarissaBorges/Help-na-Escolha"><samp>Saiba mais →</samp></a></p>
+        <p align="left"><samp>Tipo: </samp><img src="https://img.shields.io/badge/Projeto%20Comercial-Em%20Produ%C3%A7%C3%A3o-0d1117?style=flat"></p>
+        <p align="right"><a href="https://plataformahne.com.br" target="_blank"><samp>Plataforma →</samp></a> &nbsp;|&nbsp; <a href="https://helpnaescolha.com" target="_blank"><samp>Site Institucional →</samp></a></p>
       </div>
     </td>
     <td>
